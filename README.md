@@ -26,4 +26,4 @@ Les format actuellement supportés sont mp4, mp3 et gif.
 Vous pouvez lancer l'application via la commande suivante:
 ```bash
 python main.py
-```s
+```
